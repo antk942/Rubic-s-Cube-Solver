@@ -331,7 +331,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cube: {fileID: 1534112544481023291, guid: b15cbd7244679a942b4b09b71b55a3dd, type: 3}
-  rubicsSize: 3
+  sticker: {fileID: 6075938807491678398, guid: 4773c0f83f3466d429d7d005a6e2c064, type: 3}
+  rubicsSize: 5
   inBetweenOffSet: 0.5
 --- !u!4 &1148434919
 Transform:
